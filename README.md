@@ -1,3 +1,5 @@
+An especial thanks to Pacheco who teach me about Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
